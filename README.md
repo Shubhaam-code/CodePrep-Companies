@@ -1,13 +1,9 @@
 # CodePrep-Companies – Company Preparation
 
-**Total Solved:** 2
+**Total Solved:** 1
 
 ---
 
-## Activision
+## 6sense
 
-- Reformat Phone Number
-
-## Adobe
-
-- Two Sum
+- Minimum Operations to Reduce an Integer to 0
