@@ -4,6 +4,6 @@
 
 ---
 
-## 6sense
+## Google
 
-- Minimum Operations to Reduce an Integer to 0
+- Two Sum
