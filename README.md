@@ -1,8 +1,12 @@
 # CodePrep-Companies – Company Preparation
 
-**Total Solved:** 1
+**Total Solved:** 2
 
 ---
+
+## Activision
+
+- Reformat Phone Number
 
 ## Adobe
 
